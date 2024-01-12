@@ -1,0 +1,41 @@
+* {
+    /* Disable Text select  */
+    user-select: none;
+  }
+
+ 
+img {
+     /* Disable image dragging */
+    -webkit-user-drag: none; /* Safari/Chrome */
+    user-drag: none; /* Non-WebKit browsers */
+  }
+  .filter-popover {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    padding: 10px;
+  }
+  
+  
+  /* .tileHighlight {
+    position: relative;
+    background-color: lightblue !important;
+    border-radius: 50%;
+    width: 40px !important;
+  }
+  
+  .selectedTile {
+    background-color: lightgreen !important;
+    border-radius: 50%;
+  } */
+  
+
+
+
+
+  
+  
+ 
+  

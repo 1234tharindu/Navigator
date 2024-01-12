@@ -1,0 +1,58 @@
+{
+  "name": "sample_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.17",
+    "@mui/x-date-pickers": "^6.18.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.5.1",
+    "dayjs": "^1.11.10",
+    "jwt-decode": "^4.0.0",
+    "mobiscroll": "^3.0.0-beta6",
+    "multer": "^1.4.5-lts.1",
+    "primereact": "^10.1.1",
+    "react": "^18.2.0",
+    "react-avatar-editor": "^13.0.0",
+    "react-custom-scrollbar": "^1.0.0",
+    "react-datepicker": "^4.20.0",
+    "react-datetime": "^3.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.7.7",
+    "react-swipeable": "^7.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "tailwindcss-animated": "^1.0.1"
+  }
+}
